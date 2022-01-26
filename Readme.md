@@ -10,7 +10,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 ---
 
-### Памятка
+### Памяткааааааааааааааааааа
 
 #### 1. Зарегистрируйтесь на Гитхабе
 
